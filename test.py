@@ -7,4 +7,5 @@ print("fioejfiojf")
 
 def print(){
     print("hello")
+    print("fioejfiojf")
 }
